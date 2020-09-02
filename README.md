@@ -1,1 +1,1 @@
-# buscador_receita
+# Buscador de receita
