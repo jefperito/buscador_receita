@@ -23,3 +23,7 @@ Caso possuir dúvida em como resolver, pode enviar mensagens através do issue d
 ### Tempo de expiração
 
 O usuário associado em resolver o ticket, poderá ser desassociado caso manter inatividade e ficará livre para outra pessoa.
+
+### Reportando bugs
+
+O report de bug deve ser através da ferramenta de issue do GitHub com o máximo de informações possíves e o mais claro também.
