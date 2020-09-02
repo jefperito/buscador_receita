@@ -1,0 +1,24 @@
+{
+  "name": "buscador_receita",
+  "version": "1.0.0",
+  "description": "Buscador de receitas com os ingredientes que possui em casa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha ./test/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefperito/buscador_receita.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "mock-fs": "^4.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jefperito/buscador_receita/issues"
+  },
+  "homepage": "https://github.com/jefperito/buscador_receita#readme"
+}
